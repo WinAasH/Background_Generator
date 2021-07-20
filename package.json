@@ -1,0 +1,14 @@
+{
+  "name": "npm_package_testing",
+  "version": "1.0.0",
+  "description": "I am doing this along with the video lectures of Zero To Mastery",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aashwin Tripathi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
